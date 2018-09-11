@@ -1,0 +1,14 @@
+C:\Users\leahg\workspace\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.deps.json
+C:\Users\leahg\workspace\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.runtimeconfig.json
+C:\Users\leahg\workspace\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.runtimeconfig.dev.json
+C:\Users\leahg\workspace\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.dll
+C:\Users\leahg\workspace\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.pdb
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.csprojAssemblyReference.cache
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.csproj.CoreCompileInputs.cache
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorAssemblyInfo.cache
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorAssemblyInfo.cs
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.AssemblyInfoInputs.cache
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.AssemblyInfo.cs
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorTargetAssemblyInfo.cache
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.dll
+C:\Users\leahg\workspace\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.pdb
